@@ -1,7 +1,11 @@
 Nama  : Dedi Aldiansyah
+
 Nim   : 312210452
+
 Kelas : TI22B2
+
 Tugas : Praktikum 5
+
 
 1. Membuat dictionary data
 
